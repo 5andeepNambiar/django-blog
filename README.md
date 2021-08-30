@@ -37,4 +37,4 @@ py -m pip install Django
    python manage.py makemigrations
    python manage.py migrate. 
 ````
-Create a new superuser by running command : python manage.py createsuperuser
+Create a new superuser by running command : ```python manage.py createsuperuser```
