@@ -1,4 +1,5 @@
 # django-blog
+Project done as a part of learning django.
 
 ## **Built With:**
 * Python
